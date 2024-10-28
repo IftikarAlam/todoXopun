@@ -1,0 +1,17 @@
+/* src/TableComponent.css */
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tag {
+    display: inline-flex;
+    align-items: center;
+    background-color: #e6f7ff; /* Light blue background for tags */
+    border: 1px solid #91d5ff; /* Light blue border for tags */
+    border-radius: 2px;
+    padding: 5px 10px;
+    margin: 3px;
+    font-size: 14px;
+    color: #1890ff; /* Blue text color for tags */
+}
